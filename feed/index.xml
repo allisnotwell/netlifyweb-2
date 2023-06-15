@@ -10,7 +10,7 @@
 <channel>
 	<title>Bein Online Mills</title>
 	<atom:link href="https://bein.online.mills.edu/feed/" rel="self" type="application/rss+xml" />
-	<link>https://bein.online.mills.edu</link>
+	<link>https://bein.online.mills.edu/</link>
 	<description></description>
 	<lastBuildDate>Wed, 14 Jun 2023 08:30:39 +0000</lastBuildDate>
 	<language>en-US</language>
